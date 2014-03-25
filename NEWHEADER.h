@@ -1,0 +1,8 @@
+#include "ConsoleGames.h"
+#include "Employee.h"
+#include "Expenses.h"
+#include "Finances.h"
+#include "Gains.h"
+#include "Inventory.h"
+#include "Manager.h"
+#include "StorageWorker.h"
